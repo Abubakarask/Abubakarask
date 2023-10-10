@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarask&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarask" /> </p>
 
-- 🔭 I’m currently working on **React.js Projects**
+- 🔭 I’m currently working on **Typescript, GraphQL Projects**
 
-- 🌱 I’m currently learning **React.js, Django**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **Node.js, Python**
 
