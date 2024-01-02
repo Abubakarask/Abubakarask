@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abubakarshaikhask@gmail.com**
 
-- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1sbMVsWTSxzff0SZIkCPvjh7PNZRY6FJU/view?usp=drive_link)
+- 📄 Know about my experiences [Resume link]([https://drive.google.com/file/d/1sbMVsWTSxzff0SZIkCPvjh7PNZRY6FJU/view?usp=drive_link](https://drive.google.com/file/d/1dvxMPLOlv8qWlOBIMkrUj-p8OgVNUcLS/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
