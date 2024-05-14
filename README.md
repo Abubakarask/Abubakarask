@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abubakarshaikhask@gmail.com**
 
-- 🌐 Know about my experiences [Perosnal Website Link](https://abubakar-shaikh.netlify.app/)
+- 🌐 Know about my experiences [Personal Website Link](https://abubakar-shaikh.netlify.app/)
 
 - 📄 Checkout my Resume via this [Link](https://drive.google.com/file/d/1dvxMPLOlv8qWlOBIMkrUj-p8OgVNUcLS/view?usp=sharing)
 
