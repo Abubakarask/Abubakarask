@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Typescript, GraphQL Projects**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Node.js, Python**
 
