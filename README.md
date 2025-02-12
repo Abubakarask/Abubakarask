@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abubakar Shaikh</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarask&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarask" /> </p>
 
