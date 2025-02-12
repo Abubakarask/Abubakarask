@@ -13,7 +13,7 @@
 
 - 🌐 Know about my experiences [Personal Website Link](https://abubakar-shaikh.netlify.app/)
 
-- 📄 Checkout my Resume via this [Link](https://drive.google.com/file/d/1dvxMPLOlv8qWlOBIMkrUj-p8OgVNUcLS/view?usp=sharing)
+- 📄 Checkout my Resume via this [Link](https://drive.google.com/file/d/1xWLlFrrzhfVkbgR3nb5tYpof0YJvZBDR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
