@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Agentic AI Fundamentals**
 
-- 💬 Ask me about **Node.js, Python**
+- 💬 Ask me about **Python, Node.js, React.js**
 
 - 📫 How to reach me **abubakarshaikhask@gmail.com**
 
 - 🌐 Know about my experiences [Personal Website Link](https://abubakar-shaikh.netlify.app/)
 
-- 📄 Checkout my Resume via this [Link](https://drive.google.com/file/d/1xWLlFrrzhfVkbgR3nb5tYpof0YJvZBDR/view?usp=drive_link)
+- 📄 Checkout my Resume via this [Link](https://drive.google.com/file/d/1xWLlFrrzhfVkbgR3nb5tYpof0YJvZBDR/view)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abubakar-shaikh-ab000b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakar-shaikh-ab000b220" height="30" width="40" /></a>
