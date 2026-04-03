@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abubakar Shaikh</h1>
 <h3 align="center">A curious Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarask&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarask" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarask&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarask" /> </p> -->
 
-- 🔭 I’m currently working on **Django Projects**
+- 🔭 I’m currently working on **AI Driven Projects**
 
 - 🌱 I’m currently learning **Agentic AI Fundamentals**
 
